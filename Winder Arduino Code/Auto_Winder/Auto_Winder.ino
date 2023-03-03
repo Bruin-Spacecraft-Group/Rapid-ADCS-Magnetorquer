@@ -1,4 +1,4 @@
-#define DIR_WINDER 1
+#define DIR_WINDER 13
 #define STEP_WINDER 2
 #define DIR_SLIDER 3
 #define STEP_SLIDER 4
@@ -14,15 +14,19 @@ boolean EIGHTH[3] = {1,1,0};
 boolean SIXTEENTH[3] = {1,1,1};
 
 double winderPos = 0;
+boolean isForward = 1;
+double timePassed = 0;
+int timeDelay = 1000;
+long stepsTaken = 0;
 
 // length of core, mm
-double windLength = 70;
+int windLength = 70;
 // wire gauge
 int wireGauge = 32;
 
 // mm
 double wireDiameter = 8.247 * exp(-0.1159 * wireGauge);
-double stepsPerWind = wireDiameter / (2.0 / (200.0 / 0.25));
+double stepsPerWind = wireDiameter / (4.0 / (200.0 / 0.25));
 
 void setup() {
   pinMode(DIR_WINDER, OUTPUT);
@@ -35,33 +39,31 @@ void setup() {
   pinMode(MS2_WINDER, OUTPUT);
   pinMode(MS3_WINDER, OUTPUT);
 
-  Serial.begin(9600);
-}
+  digitalWrite(MS1_WINDER, HIGH);
+  digitalWrite(MS2_WINDER, HIGH);
+  digitalWrite(MS3_WINDER, LOW);
 
-void setWinderPos(double mm){
-  stepsPerWind = wireDiameter / (2.0 / (200.0 / 0.25));
-  if(winderPos != stepsPerWind * mm){
-    if(winderPos > stepsPerWind * mm){
-      digitalWrite(DIR_WINDER, HIGH);
-      digitalWrite(STEP_WINDER, HIGH);
-      delay(1);
-      digitalWrite(STEP_WINDER, LOW);
-      delay(1);
-      winderPos--;
-    }
-    else{
-      digitalWrite(DIR_WINDER, HIGH);
-      digitalWrite(STEP_WINDER, HIGH);
-      delay(1);
-      digitalWrite(STEP_WINDER, LOW);
-      delay(1);
-      winderPos++;
-    }
-  }
+  Serial.begin(9600);
 }
 
 void loop() {
   int val = analogRead(SPEED_IN);
-  double desiredPos = (((double) val) / 1024.0) * windLength;
-  setWinderPos(desiredPos);
+  double timeDelay = sqrt((((double) val) / 1024.0) * 10000000 + 5);
+  int currentVal = (stepsTaken / 2 + 200 * windLength)%(400 * windLength) - 200 * windLength;
+  if(currentVal > 0){
+    if(!isForward){
+      digitalWrite(DIR_WINDER, HIGH);
+      isForward = true;
+    }
+  }
+  else{
+    if(isForward){
+      digitalWrite(DIR_WINDER, LOW);
+      isForward = false;
+    }
+  }
+  digitalWrite(STEP_WINDER, HIGH);
+  delayMicroseconds(timeDelay);
+  digitalWrite(STEP_WINDER, LOW);
+  stepsTaken++;
 }

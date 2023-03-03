@@ -5,6 +5,19 @@
 #define MS2 6
 #define MS3 7
 
+// THIS CODE ONLY RUNS ONE STEPPER MOTOR
+
+// CONNECTIONS:
+// Connect direction and step pins on controller as defined above
+// Connect speed divider selection on controller as defined above
+// Connect pot with output on SPEED_IN
+
+// USE:
+// Moving the pot will cause the motor to spin either forward or backwards, at varying speeds 
+// depending on the amount of twist.
+// There is a deadzone in the middle where the motor does not spin--it also prints out the
+// number of rotations completed at this time.
+
 boolean FULL[3] = {0,0,0};
 boolean HALF[3] = {1,0,0};
 boolean QUARTER[3] = {0,1,0};
