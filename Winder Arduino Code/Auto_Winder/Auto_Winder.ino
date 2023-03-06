@@ -1,6 +1,6 @@
 #define DIR_WINDER 13
 #define STEP_WINDER 2
-#define DIR_SLIDER 3
+#define DIR_SLIDER 12
 #define STEP_SLIDER 4
 #define MS1_WINDER 5
 #define MS2_WINDER 6
@@ -13,11 +13,10 @@ boolean QUARTER[3] = {0,1,0};
 boolean EIGHTH[3] = {1,1,0};
 boolean SIXTEENTH[3] = {1,1,1};
 
-double winderPos = 0;
 boolean isForward = 1;
-double timePassed = 0;
 int timeDelay = 1000;
 long stepsTaken = 0;
+double deadzone = 0.05;
 
 // length of core, mm
 int windLength = 70;
@@ -26,7 +25,6 @@ int wireGauge = 32;
 
 // mm
 double wireDiameter = 8.247 * exp(-0.1159 * wireGauge);
-double stepsPerWind = wireDiameter / (4.0 / (200.0 / 0.25));
 
 void setup() {
   pinMode(DIR_WINDER, OUTPUT);
@@ -47,9 +45,21 @@ void setup() {
 }
 
 void loop() {
-  int val = analogRead(SPEED_IN);
-  double timeDelay = sqrt((((double) val) / 1024.0) * 10000000 + 5);
+  double val = ((((double) analogRead(SPEED_IN)) / 1024.0) - 0.5);
+  double timeDelay = -3820.0 * pow(val, 2.0) + 1000.0;
   int currentVal = (stepsTaken / 2 + 200 * windLength)%(400 * windLength) - 200 * windLength;
+  if(abs(val) > deadzone){
+    digitalWrite(STEP_WINDER, HIGH);
+    delayMicroseconds(timeDelay);
+    digitalWrite(STEP_WINDER, LOW);
+    if(val < 0){
+      stepsTaken--;
+      currentVal *= -1;
+    }
+    else{
+      stepsTaken++;
+    }
+  }
   if(currentVal > 0){
     if(!isForward){
       digitalWrite(DIR_WINDER, HIGH);
@@ -62,8 +72,4 @@ void loop() {
       isForward = false;
     }
   }
-  digitalWrite(STEP_WINDER, HIGH);
-  delayMicroseconds(timeDelay);
-  digitalWrite(STEP_WINDER, LOW);
-  stepsTaken++;
 }
