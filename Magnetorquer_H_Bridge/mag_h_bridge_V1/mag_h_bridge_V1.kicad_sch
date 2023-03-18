@@ -1,5 +1,22 @@
 (kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 6ae14067-5040-48f4-aaa6-f9c73444e360)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (lib_symbols
+  )
+
+
+  (global_label "Vin" (shape input) (at 83.82 64.77 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid d61431ec-daa3-478e-8909-88c071ae6176)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 89.0755 64.6906 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
