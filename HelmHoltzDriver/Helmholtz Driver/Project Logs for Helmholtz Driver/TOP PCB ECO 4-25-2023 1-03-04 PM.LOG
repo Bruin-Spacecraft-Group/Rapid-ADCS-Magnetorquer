@@ -1,0 +1,1088 @@
+Added Component: Designator=C1_U_DRV88731(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_DRV88732(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_DRV88733(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_DRV88734(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_DRV88735(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_DRV88736(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_DRV88731(CAPC220145_90N_KEM)
+Add component (AddParameter): Name = "Design Item ID"; Value = "C0805C473K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "C0805C473K5RACTU.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_DRV88732(CAPC220145_90N_KEM)
+Add component (AddParameter): Name = "Design Item ID"; Value = "C0805C473K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "C0805C473K5RACTU.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_DRV88733(CAPC220145_90N_KEM)
+Add component (AddParameter): Name = "Design Item ID"; Value = "C0805C473K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "C0805C473K5RACTU.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_DRV88734(CAPC220145_90N_KEM)
+Add component (AddParameter): Name = "Design Item ID"; Value = "C0805C473K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "C0805C473K5RACTU.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_DRV88735(CAPC220145_90N_KEM)
+Add component (AddParameter): Name = "Design Item ID"; Value = "C0805C473K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "C0805C473K5RACTU.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_DRV88736(CAPC220145_90N_KEM)
+Add component (AddParameter): Name = "Design Item ID"; Value = "C0805C473K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "C0805C473K5RACTU.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_DRV88731(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_DRV88732(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_DRV88733(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_DRV88734(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_DRV88735(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_DRV88736(CAPC1608X94X35NL15T15)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_DRV88731(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_DRV88732(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_DRV88733(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_DRV88734(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_DRV88735(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_DRV88736(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_DRV88731(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_DRV88732(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_DRV88733(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_DRV88734(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_DRV88735(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_DRV88736(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_DRV88731(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Electrolytic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/DMF0000COL72.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 6.3 mm, Height 12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "CAPPR55-250-1120X630X1220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_DRV88732(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Electrolytic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/DMF0000COL72.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 6.3 mm, Height 12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "CAPPR55-250-1120X630X1220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_DRV88733(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Electrolytic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/DMF0000COL72.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 6.3 mm, Height 12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "CAPPR55-250-1120X630X1220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_DRV88734(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Electrolytic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/DMF0000COL72.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 6.3 mm, Height 12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "CAPPR55-250-1120X630X1220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_DRV88735(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Electrolytic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/DMF0000COL72.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 6.3 mm, Height 12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "CAPPR55-250-1120X630X1220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_DRV88736(CAPPR55-250-1120X630X1220)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Electrolytic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/DMF0000COL72.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 6.3 mm, Height 12.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "CAPPR55-250-1120X630X1220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "130mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CONN_1751099_PXC)
+Add component (AddParameter): Name = "Design Item ID"; Value = "1751099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "277-5924-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "1751099.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CONN_1751099_PXC)
+Add component (AddParameter): Name = "Design Item ID"; Value = "1751099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "277-5924-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "1751099.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_DRV88731(RESC0603L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FUTEK Item #"; Value = "GOD04653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliance"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "541-10.0KHCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_DRV88732(RESC0603L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FUTEK Item #"; Value = "GOD04653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliance"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "541-10.0KHCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_DRV88733(RESC0603L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FUTEK Item #"; Value = "GOD04653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliance"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "541-10.0KHCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_DRV88734(RESC0603L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FUTEK Item #"; Value = "GOD04653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliance"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "541-10.0KHCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_DRV88735(RESC0603L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FUTEK Item #"; Value = "GOD04653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliance"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "541-10.0KHCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_DRV88736(RESC0603L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FUTEK Item #"; Value = "GOD04653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliance"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "541-10.0KHCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_DRV88731(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_DRV88732(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_DRV88733(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_DRV88734(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_DRV88735(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_DRV88736(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_DRV88731(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_DRV88732(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_DRV88733(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_DRV88734(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_DRV88735(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_DRV88736(RESC0805L)
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-P06F2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.5W, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "P16065CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_DRV88731(PWP0024J_N)
+Add component (AddParameter): Name = "Design Item ID"; Value = "DRV8873HPWPRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "DRV8873HPWPRQ1.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_DRV88732(PWP0024J_N)
+Add component (AddParameter): Name = "Design Item ID"; Value = "DRV8873HPWPRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "DRV8873HPWPRQ1.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_DRV88733(PWP0024J_N)
+Add component (AddParameter): Name = "Design Item ID"; Value = "DRV8873HPWPRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "DRV8873HPWPRQ1.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_DRV88734(PWP0024J_N)
+Add component (AddParameter): Name = "Design Item ID"; Value = "DRV8873HPWPRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "DRV8873HPWPRQ1.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_DRV88735(PWP0024J_N)
+Add component (AddParameter): Name = "Design Item ID"; Value = "DRV8873HPWPRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "DRV8873HPWPRQ1.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_DRV88736(PWP0024J_N)
+Add component (AddParameter): Name = "Design Item ID"; Value = "DRV8873HPWPRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "DRV8873HPWPRQ1.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=C3_U_DRV88731-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=C3_U_DRV88732-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=C3_U_DRV88733-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=C3_U_DRV88734-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=C3_U_DRV88735-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=C3_U_DRV88736-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=R1_U_DRV88731-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=R1_U_DRV88732-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=R1_U_DRV88733-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=R1_U_DRV88734-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=R1_U_DRV88735-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=R1_U_DRV88736-2
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=U1_U_DRV88731-1
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=U1_U_DRV88732-1
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=U1_U_DRV88733-1
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=U1_U_DRV88734-1
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=U1_U_DRV88735-1
+Added Pin To Net: NetName=3V3_U_DRV88731 Pin=U1_U_DRV88736-1
+Added Net: Name=3V3_U_DRV88731
+Added Pin To Net: NetName=GND Pin=C3_U_DRV88731-1
+Added Pin To Net: NetName=GND Pin=C3_U_DRV88732-1
+Added Pin To Net: NetName=GND Pin=C3_U_DRV88733-1
+Added Pin To Net: NetName=GND Pin=C3_U_DRV88734-1
+Added Pin To Net: NetName=GND Pin=C3_U_DRV88735-1
+Added Pin To Net: NetName=GND Pin=C3_U_DRV88736-1
+Added Pin To Net: NetName=GND Pin=C4_U_DRV88731-1
+Added Pin To Net: NetName=GND Pin=C4_U_DRV88732-1
+Added Pin To Net: NetName=GND Pin=C4_U_DRV88733-1
+Added Pin To Net: NetName=GND Pin=C4_U_DRV88734-1
+Added Pin To Net: NetName=GND Pin=C4_U_DRV88735-1
+Added Pin To Net: NetName=GND Pin=C4_U_DRV88736-1
+Added Pin To Net: NetName=GND Pin=C5_U_DRV88731-1
+Added Pin To Net: NetName=GND Pin=C5_U_DRV88732-1
+Added Pin To Net: NetName=GND Pin=C5_U_DRV88733-1
+Added Pin To Net: NetName=GND Pin=C5_U_DRV88734-1
+Added Pin To Net: NetName=GND Pin=C5_U_DRV88735-1
+Added Pin To Net: NetName=GND Pin=C5_U_DRV88736-1
+Added Pin To Net: NetName=GND Pin=C6_U_DRV88731-2
+Added Pin To Net: NetName=GND Pin=C6_U_DRV88732-2
+Added Pin To Net: NetName=GND Pin=C6_U_DRV88733-2
+Added Pin To Net: NetName=GND Pin=C6_U_DRV88734-2
+Added Pin To Net: NetName=GND Pin=C6_U_DRV88735-2
+Added Pin To Net: NetName=GND Pin=C6_U_DRV88736-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=R2_U_DRV88731-1
+Added Pin To Net: NetName=GND Pin=R2_U_DRV88732-1
+Added Pin To Net: NetName=GND Pin=R2_U_DRV88733-1
+Added Pin To Net: NetName=GND Pin=R2_U_DRV88734-1
+Added Pin To Net: NetName=GND Pin=R2_U_DRV88735-1
+Added Pin To Net: NetName=GND Pin=R2_U_DRV88736-1
+Added Pin To Net: NetName=GND Pin=R3_U_DRV88731-1
+Added Pin To Net: NetName=GND Pin=R3_U_DRV88732-1
+Added Pin To Net: NetName=GND Pin=R3_U_DRV88733-1
+Added Pin To Net: NetName=GND Pin=R3_U_DRV88734-1
+Added Pin To Net: NetName=GND Pin=R3_U_DRV88735-1
+Added Pin To Net: NetName=GND Pin=R3_U_DRV88736-1
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88731-16
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88731-17
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88731-24
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88731-25
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88732-16
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88732-17
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88732-24
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88732-25
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88733-16
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88733-17
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88733-24
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88733-25
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88734-16
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88734-17
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88734-24
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88734-25
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88735-16
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88735-17
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88735-24
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88735-25
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88736-16
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88736-17
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88736-24
+Added Pin To Net: NetName=GND Pin=U1_U_DRV88736-25
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_U_DRV88731_1 Pin=C1_U_DRV88731-1
+Added Pin To Net: NetName=NetC1_U_DRV88731_1 Pin=U1_U_DRV88731-21
+Added Net: Name=NetC1_U_DRV88731_1
+Added Pin To Net: NetName=NetC1_U_DRV88732_1 Pin=C1_U_DRV88732-1
+Added Pin To Net: NetName=NetC1_U_DRV88732_1 Pin=U1_U_DRV88732-21
+Added Net: Name=NetC1_U_DRV88732_1
+Added Pin To Net: NetName=NetC1_U_DRV88733_1 Pin=C1_U_DRV88733-1
+Added Pin To Net: NetName=NetC1_U_DRV88733_1 Pin=U1_U_DRV88733-21
+Added Net: Name=NetC1_U_DRV88733_1
+Added Pin To Net: NetName=NetC1_U_DRV88734_1 Pin=C1_U_DRV88734-1
+Added Pin To Net: NetName=NetC1_U_DRV88734_1 Pin=U1_U_DRV88734-21
+Added Net: Name=NetC1_U_DRV88734_1
+Added Pin To Net: NetName=NetC1_U_DRV88735_1 Pin=C1_U_DRV88735-1
+Added Pin To Net: NetName=NetC1_U_DRV88735_1 Pin=U1_U_DRV88735-21
+Added Net: Name=NetC1_U_DRV88735_1
+Added Pin To Net: NetName=NetC1_U_DRV88736_1 Pin=C1_U_DRV88736-1
+Added Pin To Net: NetName=NetC1_U_DRV88736_1 Pin=U1_U_DRV88736-21
+Added Net: Name=NetC1_U_DRV88736_1
+Added Pin To Net: NetName=NetC2_U_DRV88731_1 Pin=C2_U_DRV88731-1
+Added Pin To Net: NetName=NetC2_U_DRV88731_1 Pin=U1_U_DRV88731-23
+Added Net: Name=NetC2_U_DRV88731_1
+Added Pin To Net: NetName=NetC2_U_DRV88731_2 Pin=C2_U_DRV88731-2
+Added Pin To Net: NetName=NetC2_U_DRV88731_2 Pin=U1_U_DRV88731-22
+Added Net: Name=NetC2_U_DRV88731_2
+Added Pin To Net: NetName=NetC2_U_DRV88732_1 Pin=C2_U_DRV88732-1
+Added Pin To Net: NetName=NetC2_U_DRV88732_1 Pin=U1_U_DRV88732-23
+Added Net: Name=NetC2_U_DRV88732_1
+Added Pin To Net: NetName=NetC2_U_DRV88732_2 Pin=C2_U_DRV88732-2
+Added Pin To Net: NetName=NetC2_U_DRV88732_2 Pin=U1_U_DRV88732-22
+Added Net: Name=NetC2_U_DRV88732_2
+Added Pin To Net: NetName=NetC2_U_DRV88733_1 Pin=C2_U_DRV88733-1
+Added Pin To Net: NetName=NetC2_U_DRV88733_1 Pin=U1_U_DRV88733-23
+Added Net: Name=NetC2_U_DRV88733_1
+Added Pin To Net: NetName=NetC2_U_DRV88733_2 Pin=C2_U_DRV88733-2
+Added Pin To Net: NetName=NetC2_U_DRV88733_2 Pin=U1_U_DRV88733-22
+Added Net: Name=NetC2_U_DRV88733_2
+Added Pin To Net: NetName=NetC2_U_DRV88734_1 Pin=C2_U_DRV88734-1
+Added Pin To Net: NetName=NetC2_U_DRV88734_1 Pin=U1_U_DRV88734-23
+Added Net: Name=NetC2_U_DRV88734_1
+Added Pin To Net: NetName=NetC2_U_DRV88734_2 Pin=C2_U_DRV88734-2
+Added Pin To Net: NetName=NetC2_U_DRV88734_2 Pin=U1_U_DRV88734-22
+Added Net: Name=NetC2_U_DRV88734_2
+Added Pin To Net: NetName=NetC2_U_DRV88735_1 Pin=C2_U_DRV88735-1
+Added Pin To Net: NetName=NetC2_U_DRV88735_1 Pin=U1_U_DRV88735-23
+Added Net: Name=NetC2_U_DRV88735_1
+Added Pin To Net: NetName=NetC2_U_DRV88735_2 Pin=C2_U_DRV88735-2
+Added Pin To Net: NetName=NetC2_U_DRV88735_2 Pin=U1_U_DRV88735-22
+Added Net: Name=NetC2_U_DRV88735_2
+Added Pin To Net: NetName=NetC2_U_DRV88736_1 Pin=C2_U_DRV88736-1
+Added Pin To Net: NetName=NetC2_U_DRV88736_1 Pin=U1_U_DRV88736-23
+Added Net: Name=NetC2_U_DRV88736_1
+Added Pin To Net: NetName=NetC2_U_DRV88736_2 Pin=C2_U_DRV88736-2
+Added Pin To Net: NetName=NetC2_U_DRV88736_2 Pin=U1_U_DRV88736-22
+Added Net: Name=NetC2_U_DRV88736_2
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88731-18
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88731-19
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88732-18
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88732-19
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88733-18
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88733-19
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88734-18
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88734-19
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88735-18
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88735-19
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88736-18
+Added Pin To Net: NetName=NetJ?_1 Pin=U1_U_DRV88736-19
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88731-14
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88731-15
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88732-14
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88732-15
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88733-14
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88733-15
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88734-14
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88734-15
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88735-14
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88735-15
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88736-14
+Added Pin To Net: NetName=NetJ?_2 Pin=U1_U_DRV88736-15
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=R1_U_DRV88731-1
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=R1_U_DRV88732-1
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=R1_U_DRV88733-1
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=R1_U_DRV88734-1
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=R1_U_DRV88735-1
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=R1_U_DRV88736-1
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=U1_U_DRV88731-2
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=U1_U_DRV88732-2
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=U1_U_DRV88733-2
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=U1_U_DRV88734-2
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=U1_U_DRV88735-2
+Added Pin To Net: NetName=NetR1_U_DRV88731_1 Pin=U1_U_DRV88736-2
+Added Net: Name=NetR1_U_DRV88731_1
+Added Pin To Net: NetName=NetR2_U_DRV88731_2 Pin=R2_U_DRV88731-2
+Added Pin To Net: NetName=NetR2_U_DRV88731_2 Pin=U1_U_DRV88731-10
+Added Net: Name=NetR2_U_DRV88731_2
+Added Pin To Net: NetName=NetR2_U_DRV88732_2 Pin=R2_U_DRV88732-2
+Added Pin To Net: NetName=NetR2_U_DRV88732_2 Pin=U1_U_DRV88732-10
+Added Net: Name=NetR2_U_DRV88732_2
+Added Pin To Net: NetName=NetR2_U_DRV88733_2 Pin=R2_U_DRV88733-2
+Added Pin To Net: NetName=NetR2_U_DRV88733_2 Pin=U1_U_DRV88733-10
+Added Net: Name=NetR2_U_DRV88733_2
+Added Pin To Net: NetName=NetR2_U_DRV88734_2 Pin=R2_U_DRV88734-2
+Added Pin To Net: NetName=NetR2_U_DRV88734_2 Pin=U1_U_DRV88734-10
+Added Net: Name=NetR2_U_DRV88734_2
+Added Pin To Net: NetName=NetR2_U_DRV88735_2 Pin=R2_U_DRV88735-2
+Added Pin To Net: NetName=NetR2_U_DRV88735_2 Pin=U1_U_DRV88735-10
+Added Net: Name=NetR2_U_DRV88735_2
+Added Pin To Net: NetName=NetR2_U_DRV88736_2 Pin=R2_U_DRV88736-2
+Added Pin To Net: NetName=NetR2_U_DRV88736_2 Pin=U1_U_DRV88736-10
+Added Net: Name=NetR2_U_DRV88736_2
+Added Pin To Net: NetName=NetR3_U_DRV88731_2 Pin=R3_U_DRV88731-2
+Added Pin To Net: NetName=NetR3_U_DRV88731_2 Pin=U1_U_DRV88731-12
+Added Net: Name=NetR3_U_DRV88731_2
+Added Pin To Net: NetName=NetR3_U_DRV88732_2 Pin=R3_U_DRV88732-2
+Added Pin To Net: NetName=NetR3_U_DRV88732_2 Pin=U1_U_DRV88732-12
+Added Net: Name=NetR3_U_DRV88732_2
+Added Pin To Net: NetName=NetR3_U_DRV88733_2 Pin=R3_U_DRV88733-2
+Added Pin To Net: NetName=NetR3_U_DRV88733_2 Pin=U1_U_DRV88733-12
+Added Net: Name=NetR3_U_DRV88733_2
+Added Pin To Net: NetName=NetR3_U_DRV88734_2 Pin=R3_U_DRV88734-2
+Added Pin To Net: NetName=NetR3_U_DRV88734_2 Pin=U1_U_DRV88734-12
+Added Net: Name=NetR3_U_DRV88734_2
+Added Pin To Net: NetName=NetR3_U_DRV88735_2 Pin=R3_U_DRV88735-2
+Added Pin To Net: NetName=NetR3_U_DRV88735_2 Pin=U1_U_DRV88735-12
+Added Net: Name=NetR3_U_DRV88735_2
+Added Pin To Net: NetName=NetR3_U_DRV88736_2 Pin=R3_U_DRV88736-2
+Added Pin To Net: NetName=NetR3_U_DRV88736_2 Pin=U1_U_DRV88736-12
+Added Net: Name=NetR3_U_DRV88736_2
+Added Pin To Net: NetName=NetU1_U_DRV88731_3 Pin=U1_U_DRV88731-3
+Added Pin To Net: NetName=NetU1_U_DRV88731_3 Pin=U1_U_DRV88732-3
+Added Pin To Net: NetName=NetU1_U_DRV88731_3 Pin=U1_U_DRV88733-3
+Added Pin To Net: NetName=NetU1_U_DRV88731_3 Pin=U1_U_DRV88734-3
+Added Pin To Net: NetName=NetU1_U_DRV88731_3 Pin=U1_U_DRV88735-3
+Added Pin To Net: NetName=NetU1_U_DRV88731_3 Pin=U1_U_DRV88736-3
+Added Net: Name=NetU1_U_DRV88731_3
+Added Pin To Net: NetName=NetU1_U_DRV88731_4 Pin=U1_U_DRV88731-4
+Added Pin To Net: NetName=NetU1_U_DRV88731_4 Pin=U1_U_DRV88732-4
+Added Pin To Net: NetName=NetU1_U_DRV88731_4 Pin=U1_U_DRV88733-4
+Added Pin To Net: NetName=NetU1_U_DRV88731_4 Pin=U1_U_DRV88734-4
+Added Pin To Net: NetName=NetU1_U_DRV88731_4 Pin=U1_U_DRV88735-4
+Added Pin To Net: NetName=NetU1_U_DRV88731_4 Pin=U1_U_DRV88736-4
+Added Net: Name=NetU1_U_DRV88731_4
+Added Pin To Net: NetName=NetU1_U_DRV88731_5 Pin=U1_U_DRV88731-5
+Added Pin To Net: NetName=NetU1_U_DRV88731_5 Pin=U1_U_DRV88732-5
+Added Pin To Net: NetName=NetU1_U_DRV88731_5 Pin=U1_U_DRV88733-5
+Added Pin To Net: NetName=NetU1_U_DRV88731_5 Pin=U1_U_DRV88734-5
+Added Pin To Net: NetName=NetU1_U_DRV88731_5 Pin=U1_U_DRV88735-5
+Added Pin To Net: NetName=NetU1_U_DRV88731_5 Pin=U1_U_DRV88736-5
+Added Net: Name=NetU1_U_DRV88731_5
+Added Pin To Net: NetName=NetU1_U_DRV88731_6 Pin=U1_U_DRV88731-6
+Added Pin To Net: NetName=NetU1_U_DRV88731_6 Pin=U1_U_DRV88732-6
+Added Pin To Net: NetName=NetU1_U_DRV88731_6 Pin=U1_U_DRV88733-6
+Added Pin To Net: NetName=NetU1_U_DRV88731_6 Pin=U1_U_DRV88734-6
+Added Pin To Net: NetName=NetU1_U_DRV88731_6 Pin=U1_U_DRV88735-6
+Added Pin To Net: NetName=NetU1_U_DRV88731_6 Pin=U1_U_DRV88736-6
+Added Net: Name=NetU1_U_DRV88731_6
+Added Pin To Net: NetName=NetU1_U_DRV88731_7 Pin=U1_U_DRV88731-7
+Added Pin To Net: NetName=NetU1_U_DRV88731_7 Pin=U1_U_DRV88732-7
+Added Pin To Net: NetName=NetU1_U_DRV88731_7 Pin=U1_U_DRV88733-7
+Added Pin To Net: NetName=NetU1_U_DRV88731_7 Pin=U1_U_DRV88734-7
+Added Pin To Net: NetName=NetU1_U_DRV88731_7 Pin=U1_U_DRV88735-7
+Added Pin To Net: NetName=NetU1_U_DRV88731_7 Pin=U1_U_DRV88736-7
+Added Net: Name=NetU1_U_DRV88731_7
+Added Pin To Net: NetName=NetU1_U_DRV88731_8 Pin=U1_U_DRV88731-8
+Added Pin To Net: NetName=NetU1_U_DRV88731_8 Pin=U1_U_DRV88732-8
+Added Pin To Net: NetName=NetU1_U_DRV88731_8 Pin=U1_U_DRV88733-8
+Added Pin To Net: NetName=NetU1_U_DRV88731_8 Pin=U1_U_DRV88734-8
+Added Pin To Net: NetName=NetU1_U_DRV88731_8 Pin=U1_U_DRV88735-8
+Added Pin To Net: NetName=NetU1_U_DRV88731_8 Pin=U1_U_DRV88736-8
+Added Net: Name=NetU1_U_DRV88731_8
+Added Pin To Net: NetName=NetU1_U_DRV88731_9 Pin=U1_U_DRV88731-9
+Added Pin To Net: NetName=NetU1_U_DRV88731_9 Pin=U1_U_DRV88732-9
+Added Pin To Net: NetName=NetU1_U_DRV88731_9 Pin=U1_U_DRV88733-9
+Added Pin To Net: NetName=NetU1_U_DRV88731_9 Pin=U1_U_DRV88734-9
+Added Pin To Net: NetName=NetU1_U_DRV88731_9 Pin=U1_U_DRV88735-9
+Added Pin To Net: NetName=NetU1_U_DRV88731_9 Pin=U1_U_DRV88736-9
+Added Net: Name=NetU1_U_DRV88731_9
+Added Pin To Net: NetName=NetU1_U_DRV88731_11 Pin=U1_U_DRV88731-11
+Added Pin To Net: NetName=NetU1_U_DRV88731_11 Pin=U1_U_DRV88732-11
+Added Pin To Net: NetName=NetU1_U_DRV88731_11 Pin=U1_U_DRV88733-11
+Added Pin To Net: NetName=NetU1_U_DRV88731_11 Pin=U1_U_DRV88734-11
+Added Pin To Net: NetName=NetU1_U_DRV88731_11 Pin=U1_U_DRV88735-11
+Added Pin To Net: NetName=NetU1_U_DRV88731_11 Pin=U1_U_DRV88736-11
+Added Net: Name=NetU1_U_DRV88731_11
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C1_U_DRV88731-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C1_U_DRV88732-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C1_U_DRV88733-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C1_U_DRV88734-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C1_U_DRV88735-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C1_U_DRV88736-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C4_U_DRV88731-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C4_U_DRV88732-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C4_U_DRV88733-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C4_U_DRV88734-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C4_U_DRV88735-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C4_U_DRV88736-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C5_U_DRV88731-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C5_U_DRV88732-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C5_U_DRV88733-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C5_U_DRV88734-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C5_U_DRV88735-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C5_U_DRV88736-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C6_U_DRV88731-1
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C6_U_DRV88732-1
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C6_U_DRV88733-1
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C6_U_DRV88734-1
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C6_U_DRV88735-1
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=C6_U_DRV88736-1
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=J?-2
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88731-13
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88731-20
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88732-13
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88732-20
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88733-13
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88733-20
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88734-13
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88734-20
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88735-13
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88735-20
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88736-13
+Added Pin To Net: NetName=VM_U_DRV88731 Pin=U1_U_DRV88736-20
+Added Net: Name=VM_U_DRV88731
