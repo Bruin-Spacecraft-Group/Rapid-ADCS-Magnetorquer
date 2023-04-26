@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QBJXXLEO
 
 [Document4]
-DocumentPath=CONNECTOR.SchDoc
+DocumentPath=Helmholtz Driver.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HJGPOLKC
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
