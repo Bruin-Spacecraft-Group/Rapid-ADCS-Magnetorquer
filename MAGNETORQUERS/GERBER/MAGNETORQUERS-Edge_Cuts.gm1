@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*
+G04 #@! TF.CreationDate,2023-05-06T21:57:30-07:00*
+G04 #@! TF.ProjectId,MAGNETORQUERS,4d41474e-4554-44f5-9251-554552532e6b,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-05-06 21:57:30*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.100000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X124200000Y-76350000D02*
+X156600000Y-76350000D01*
+X156600000Y-96600000D01*
+X124200000Y-96600000D01*
+X124200000Y-76350000D01*
+M02*
