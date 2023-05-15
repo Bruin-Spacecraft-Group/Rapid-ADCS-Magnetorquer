@@ -49,6 +49,7 @@ ADC_HandleTypeDef hadc1;
 ADC_HandleTypeDef hadc2;
 
 TIM_HandleTypeDef htim2;
+TIM_HandleTypeDef htim3;
 
 UART_HandleTypeDef huart2;
 
@@ -63,6 +64,7 @@ static void MX_USART2_UART_Init(void);
 static void MX_TIM2_Init(void);
 static void MX_ADC2_Init(void);
 static void MX_ADC1_Init(void);
+static void MX_TIM3_Init(void);
 /* USER CODE BEGIN PFP */
 
 /* USER CODE END PFP */
@@ -104,6 +106,7 @@ int main(void)
   MX_TIM2_Init();
   MX_ADC2_Init();
   MX_ADC1_Init();
+  MX_TIM3_Init();
   /* USER CODE BEGIN 2 */
 
   uint32_t adc2_val;
@@ -112,16 +115,19 @@ int main(void)
   int dir = 0;
   uint32_t adc1_val;
   double adc1_value;
+  uint32_t nFault;
 
 
   HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_1);
-  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_SET);
+  HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_2);
   HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_SET);
-  //nFault = HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_6);
+  nFault = HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_6);
 
 
   TIM1->CCR1 = 500;
+  TIM3->CCR2 = 500;
   HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_1);
+  HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_2);
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -134,21 +140,26 @@ int main(void)
 	  adc1_val = HAL_ADC_GetValue(&hadc1);
 	  adc2_value = adc2_val;
 	  adc1_value = adc1_val;
-	  if(adc2_value < 2048){
-		  dir = 0;
-	  }
-	  else{
-		  dir = 1;
-	  }
-	  if(dir){
-		  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_SET);
-		  pwm_val = 1000.0 * ((adc2_value - 2048.0) / 2048.0);
-	  }
-	  else{
-		  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_RESET);
+
+	  if(adc2_value < 2048){ // direction 0
 		  pwm_val = 1000.0 * ((2048.0 - adc2_value) / 2048.0);
+		  __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_1, pwm_val);
+		  __HAL_TIM_SET_COMPARE(&htim3, TIM_CHANNEL_2, 0);
 	  }
-	  __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_1, pwm_val);
+	  else{ // direction 1
+		  pwm_val = 1000.0 * ((adc2_value - 2048.0) / 2048.0);
+		  __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_1, 0);
+		  __HAL_TIM_SET_COMPARE(&htim3, TIM_CHANNEL_2, pwm_val);
+	  }
+//	  if(dir){
+//		  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_SET);
+//		  pwm_val = 1000.0 * ((adc2_value - 2048.0) / 2048.0);
+//	  }
+//	  else{
+//		  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_RESET);
+//		  pwm_val = 1000.0 * ((2048.0 - adc2_value) / 2048.0);
+//	  }
+//	  __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_1, pwm_val);
 	  if(!HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_8)){
 		  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_6, GPIO_PIN_SET);
 	  }
@@ -397,6 +408,65 @@ static void MX_TIM2_Init(void)
 }
 
 /**
+  * @brief TIM3 Initialization Function
+  * @param None
+  * @retval None
+  */
+static void MX_TIM3_Init(void)
+{
+
+  /* USER CODE BEGIN TIM3_Init 0 */
+
+  /* USER CODE END TIM3_Init 0 */
+
+  TIM_ClockConfigTypeDef sClockSourceConfig = {0};
+  TIM_MasterConfigTypeDef sMasterConfig = {0};
+  TIM_OC_InitTypeDef sConfigOC = {0};
+
+  /* USER CODE BEGIN TIM3_Init 1 */
+
+  /* USER CODE END TIM3_Init 1 */
+  htim3.Instance = TIM3;
+  htim3.Init.Prescaler = 0;
+  htim3.Init.CounterMode = TIM_COUNTERMODE_UP;
+  htim3.Init.Period = 1000;
+  htim3.Init.ClockDivision = TIM_CLOCKDIVISION_DIV1;
+  htim3.Init.AutoReloadPreload = TIM_AUTORELOAD_PRELOAD_ENABLE;
+  if (HAL_TIM_Base_Init(&htim3) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  sClockSourceConfig.ClockSource = TIM_CLOCKSOURCE_INTERNAL;
+  if (HAL_TIM_ConfigClockSource(&htim3, &sClockSourceConfig) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  if (HAL_TIM_PWM_Init(&htim3) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  sMasterConfig.MasterOutputTrigger = TIM_TRGO_RESET;
+  sMasterConfig.MasterSlaveMode = TIM_MASTERSLAVEMODE_DISABLE;
+  if (HAL_TIMEx_MasterConfigSynchronization(&htim3, &sMasterConfig) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  sConfigOC.OCMode = TIM_OCMODE_PWM1;
+  sConfigOC.Pulse = 0;
+  sConfigOC.OCPolarity = TIM_OCPOLARITY_HIGH;
+  sConfigOC.OCFastMode = TIM_OCFAST_DISABLE;
+  if (HAL_TIM_PWM_ConfigChannel(&htim3, &sConfigOC, TIM_CHANNEL_2) != HAL_OK)
+  {
+    Error_Handler();
+  }
+  /* USER CODE BEGIN TIM3_Init 2 */
+
+  /* USER CODE END TIM3_Init 2 */
+  HAL_TIM_MspPostInit(&htim3);
+
+}
+
+/**
   * @brief USART2 Initialization Function
   * @param None
   * @retval None
@@ -460,13 +530,13 @@ static void MX_GPIO_Init(void)
   __HAL_RCC_GPIOB_CLK_ENABLE();
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4|GPIO_PIN_5|GPIO_PIN_6, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5|GPIO_PIN_6, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
   HAL_GPIO_WritePin(LD2_GPIO_Port, LD2_Pin, GPIO_PIN_RESET);
 
-  /*Configure GPIO pins : PA4 PA5 PA6 */
-  GPIO_InitStruct.Pin = GPIO_PIN_4|GPIO_PIN_5|GPIO_PIN_6;
+  /*Configure GPIO pins : PA5 PA6 */
+  GPIO_InitStruct.Pin = GPIO_PIN_5|GPIO_PIN_6;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;

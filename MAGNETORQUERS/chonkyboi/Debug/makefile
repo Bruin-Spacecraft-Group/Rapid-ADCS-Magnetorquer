@@ -60,8 +60,8 @@ all: main-build
 main-build: chonkyboi.elf secondary-outputs
 
 # Tool invocations
-chonkyboi.elf chonkyboi.map: $(OBJS) $(USER_OBJS) /Users/madcloud123/Documents/GitHub/Rapid-ADCS-Magnetorquer/MAGNETORQUERS/chonkyboi/STM32G431KBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "chonkyboi.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"/Users/madcloud123/Documents/GitHub/Rapid-ADCS-Magnetorquer/MAGNETORQUERS/chonkyboi/STM32G431KBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="chonkyboi.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+chonkyboi.elf chonkyboi.map: $(OBJS) $(USER_OBJS) C:\Users\munng\OneDrive\Documents\GitHub\Rapid-ADCS-Magnetorquer\MAGNETORQUERS\chonkyboi\STM32G431KBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "chonkyboi.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\munng\OneDrive\Documents\GitHub\Rapid-ADCS-Magnetorquer\MAGNETORQUERS\chonkyboi\STM32G431KBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="chonkyboi.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
