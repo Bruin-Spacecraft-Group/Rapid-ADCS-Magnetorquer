@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=VM Pin=C1-2
-Added Pin To Net: NetName=VM Pin=J1-4
-Added Pin To Net: NetName=VM Pin=U-8
-Change Net Name : Old Net Name=NetJ1_1 New Net Name=IN1
-Change Net Name : Old Net Name=NetJ1_2 New Net Name=IN2
-Change Net Name : Old Net Name=NetJ1_3 New Net Name=S\L\E\E\P\
-Change Net Name : Old Net Name=NetJ2_2 New Net Name=OUT1
-Change Net Name : Old Net Name=NetJ2_3 New Net Name=OUT2
-Change Net Name : Old Net Name=VM New Net Name=VCC
