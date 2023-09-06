@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;IIS2MDCTR_DRV8876PWP_Code/IIS2MDCTR.ioc&apos; to &apos;IIS2MDCTR_DRV8876PWP_Code.ioc&apos;" description="Rename resource &apos;IIS2MDCTR.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="IIS2MDCTR.ioc" name="IIS2MDCTR_DRV8876PWP_Code.ioc" stamp="1692383198999" updateReferences="true"/>
+</session>
