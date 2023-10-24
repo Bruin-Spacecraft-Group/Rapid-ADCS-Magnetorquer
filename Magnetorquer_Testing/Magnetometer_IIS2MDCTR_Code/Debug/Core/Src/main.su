@@ -1,0 +1,10 @@
+../Core/Src/main.c:78:5:main	40	static
+../Core/Src/main.c:149:6:SystemClock_Config	88	static
+../Core/Src/main.c:196:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:236:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:284:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:325:6:UART_PRINT_VAL	96	static
+../Core/Src/main.c:342:6:UART_PRINT_TEXT	16	static
+../Core/Src/main.c:346:6:IIS2_INIT	24	static
+../Core/Src/main.c:356:5:IIS2_GET_DATA	32	static
+../Core/Src/main.c:383:6:Error_Handler	4	static,ignoring_inline_asm

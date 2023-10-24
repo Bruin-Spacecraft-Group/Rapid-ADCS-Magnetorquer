@@ -34,34 +34,34 @@ $(wildcard ../makefile.init) \
 $(wildcard ../makefile.targets) \
 
 
-BUILD_ARTIFACT_NAME := chonkyboi
+BUILD_ARTIFACT_NAME := IIS2MDCTR_DRV8876PWP_Code
 BUILD_ARTIFACT_EXTENSION := elf
 BUILD_ARTIFACT_PREFIX :=
 BUILD_ARTIFACT := $(BUILD_ARTIFACT_PREFIX)$(BUILD_ARTIFACT_NAME)$(if $(BUILD_ARTIFACT_EXTENSION),.$(BUILD_ARTIFACT_EXTENSION),)
 
 # Add inputs and outputs from these tool invocations to the build variables 
 EXECUTABLES += \
-chonkyboi.elf \
+IIS2MDCTR_DRV8876PWP_Code.elf \
 
 MAP_FILES += \
-chonkyboi.map \
+IIS2MDCTR_DRV8876PWP_Code.map \
 
 SIZE_OUTPUT += \
 default.size.stdout \
 
 OBJDUMP_LIST += \
-chonkyboi.list \
+IIS2MDCTR_DRV8876PWP_Code.list \
 
 
 # All Target
 all: main-build
 
 # Main-build Target
-main-build: chonkyboi.elf secondary-outputs
+main-build: IIS2MDCTR_DRV8876PWP_Code.elf secondary-outputs
 
 # Tool invocations
-chonkyboi.elf chonkyboi.map: $(OBJS) $(USER_OBJS) C:\Users\munng\OneDrive\Documents\GitHub\Rapid-ADCS-Magnetorquer\MAGNETORQUERS\chonkyboi\STM32G431KBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "chonkyboi.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\munng\OneDrive\Documents\GitHub\Rapid-ADCS-Magnetorquer\MAGNETORQUERS\chonkyboi\STM32G431KBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="chonkyboi.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+IIS2MDCTR_DRV8876PWP_Code.elf IIS2MDCTR_DRV8876PWP_Code.map: $(OBJS) $(USER_OBJS) C:\Users\munng\OneDrive\Documents\GitHub\Rapid-ADCS-Magnetorquer\IIS2MDCTR_DRV8876PWP_Code\STM32G431KBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "IIS2MDCTR_DRV8876PWP_Code.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\munng\OneDrive\Documents\GitHub\Rapid-ADCS-Magnetorquer\IIS2MDCTR_DRV8876PWP_Code\STM32G431KBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="IIS2MDCTR_DRV8876PWP_Code.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
@@ -70,14 +70,14 @@ default.size.stdout: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
 	@echo 'Finished building: $@'
 	@echo ' '
 
-chonkyboi.list: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-objdump -h -S $(EXECUTABLES) > "chonkyboi.list"
+IIS2MDCTR_DRV8876PWP_Code.list: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-objdump -h -S $(EXECUTABLES) > "IIS2MDCTR_DRV8876PWP_Code.list"
 	@echo 'Finished building: $@'
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) chonkyboi.elf chonkyboi.list chonkyboi.map default.size.stdout
+	-$(RM) IIS2MDCTR_DRV8876PWP_Code.elf IIS2MDCTR_DRV8876PWP_Code.list IIS2MDCTR_DRV8876PWP_Code.map default.size.stdout
 	-@echo ' '
 
 secondary-outputs: $(SIZE_OUTPUT) $(OBJDUMP_LIST)

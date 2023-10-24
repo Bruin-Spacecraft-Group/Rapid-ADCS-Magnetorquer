@@ -1,0 +1,10 @@
+main.c:78:5:main	1
+main.c:149:6:SystemClock_Config	3
+main.c:196:13:MX_SPI1_Init	2
+main.c:236:13:MX_USART2_UART_Init	5
+main.c:284:13:MX_GPIO_Init	1
+main.c:325:6:UART_PRINT_VAL	3
+main.c:342:6:UART_PRINT_TEXT	1
+main.c:346:6:IIS2_INIT	1
+main.c:356:5:IIS2_GET_DATA	2
+main.c:383:6:Error_Handler	1
