@@ -135,13 +135,12 @@ int main(void)
 	  adc1_value = adc1_val;
 	  adc2_val = HAL_ADC_GetValue(&hadc2);
 	  adc2_value = adc2_val;
-	  adc2_value = adc2_value;//*(0.015891); // mA/bit
+	  adc2_value = adc2_value * 0.01545595; // mA/bit
 
-	  UART_PRINT_TEXT("\nADC DRV reading: ");
+	  UART_PRINT_TEXT("\nCurrent output: ");
 	  UART_PRINT_VAL(adc2_value);
-	  UART_PRINT_TEXT("\n");
-	  UART_PRINT_TEXT("\nADC POT reading: ");
-	  UART_PRINT_VAL(adc1_value);
+	  //UART_PRINT_TEXT("\nADC POT reading: ");
+	  //UART_PRINT_VAL(adc1_value);
 
 
 	  if(adc1_value < 2048){ // reverse
@@ -158,24 +157,6 @@ int main(void)
 		  __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_1, pwm_val); // IN1 = 1
 		  __HAL_TIM_SET_COMPARE(&htim2,TIM_CHANNEL_1, 0); // IN2 = 0
 	  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     /* USER CODE END WHILE */
 
@@ -341,7 +322,7 @@ static void MX_ADC2_Init(void)
 
   /** Configure Regular Channel
   */
-  sConfig.Channel = ADC_CHANNEL_3;
+  sConfig.Channel = ADC_CHANNEL_1;
   sConfig.Rank = ADC_REGULAR_RANK_1;
   sConfig.SamplingTime = ADC_SAMPLETIME_2CYCLES_5;
   sConfig.SingleDiff = ADC_SINGLE_ENDED;
@@ -542,17 +523,7 @@ static void MX_GPIO_Init(void)
   __HAL_RCC_GPIOB_CLK_ENABLE();
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
-
-  /*Configure GPIO pin Output Level */
   HAL_GPIO_WritePin(LD2_GPIO_Port, LD2_Pin, GPIO_PIN_RESET);
-
-  /*Configure GPIO pin : PA0 */
-  GPIO_InitStruct.Pin = GPIO_PIN_0;
-  GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
-  GPIO_InitStruct.Pull = GPIO_NOPULL;
-  GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
-  HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
 
   /*Configure GPIO pin : LD2_Pin */
   GPIO_InitStruct.Pin = LD2_Pin;

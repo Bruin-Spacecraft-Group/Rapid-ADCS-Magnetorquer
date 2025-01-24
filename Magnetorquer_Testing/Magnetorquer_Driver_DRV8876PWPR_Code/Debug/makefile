@@ -60,8 +60,8 @@ all: main-build
 main-build: Magnetorquer_Driver_DRV8876PWPR_Code.elf secondary-outputs
 
 # Tool invocations
-Magnetorquer_Driver_DRV8876PWPR_Code.elf Magnetorquer_Driver_DRV8876PWPR_Code.map: $(OBJS) $(USER_OBJS) C:\Users\munng\OneDrive\Documents\GitHub\Rapid-ADCS-Magnetorquer\Magnetorquer_Testing\Magnetorquer_Driver_DRV8876PWPR_Code\STM32G431KBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "Magnetorquer_Driver_DRV8876PWPR_Code.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\munng\OneDrive\Documents\GitHub\Rapid-ADCS-Magnetorquer\Magnetorquer_Testing\Magnetorquer_Driver_DRV8876PWPR_Code\STM32G431KBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Magnetorquer_Driver_DRV8876PWPR_Code.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Magnetorquer_Driver_DRV8876PWPR_Code.elf Magnetorquer_Driver_DRV8876PWPR_Code.map: $(OBJS) $(USER_OBJS) /Users/madcloud123/Documents/GitHub/Rapid-ADCS-Magnetorquer/Magnetorquer_Testing/Magnetorquer_Driver_DRV8876PWPR_Code/STM32G431KBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "Magnetorquer_Driver_DRV8876PWPR_Code.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"/Users/madcloud123/Documents/GitHub/Rapid-ADCS-Magnetorquer/Magnetorquer_Testing/Magnetorquer_Driver_DRV8876PWPR_Code/STM32G431KBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Magnetorquer_Driver_DRV8876PWPR_Code.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
